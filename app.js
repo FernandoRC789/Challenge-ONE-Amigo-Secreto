@@ -28,7 +28,6 @@ function agregarAmigo() {
     }
 }
 
-
 function actualizarListaDeAmigos() {
     let listaHTML = document.getElementById("listaAmigos");
     listaHTML.innerHTML = '';  //Limpiar la lista previa
@@ -41,8 +40,53 @@ function actualizarListaDeAmigos() {
     });
 }
 
-function sortearAmigo(){
-    
+//Función para obtener un número aleatorio
+function numeroAleatorio(){
+    let numeroRandom = Math.floor(Math.random() * 10);
+    return numeroRandom;
 }
-agregarAmigo();
-sortearAmigo();
+
+
+function sortearAmigo(){
+    let numeroSecreto = numeroAleatorio();
+    console.log('el numero secreto es : ' + numeroSecreto);
+    console.log("el numero random es " + numeroSecreto)
+    
+    if ( amigosList.length !== 0) { //Verificar si el campo no está vacío
+        alert("la lista esta completa");
+        contador++;
+    } else {
+        alert("la lista esta vacia");
+    }
+
+}
+
+
+    /*if (amigosList.length != 0 && contador != 1) {
+        for (let i = 0; i < amigosList.length; i++) {
+            if (i === numeroSecreto) {
+                console.log(i);
+                console.log(amigosList[i] === numeroSecreto);
+                console.log(amigosList[i]);
+                console.log('el numero secreto if es:'+numeroSecreto)
+                console.log("el amigo secreto es :" + amigosList[i])
+                break;
+            }else{
+                console.log(amigosList[i] === numeroSecreto);
+                console.log(amigosList[i]);
+                console.log(i);
+                console.log('else el numero secreto if es:'+numeroSecreto)
+                console.log("else el amigo secreto es :" + amigosList[i])
+                console.log("no se encontro ningun amigo secreto");
+                alert("ingrese nombres a sortearrrrr");
+            }
+        }
+    }else{
+        alert("ingrese nombres a sortearrrrr if amigos ");
+        //return;
+        contador++;
+    }*/
+
+
+//numeroAleatorio();
+//sortearAmigo();
