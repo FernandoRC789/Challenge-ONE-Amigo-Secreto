@@ -1,16 +1,57 @@
-# Challenge-ONE-Amigo-Secreto
-Challenge ONE Lógica de Programación - Alura Latam - Amigo secreto
+<h1 align="center">JUEGO DEL AMIGO SECRETO</h1>
 
-Amigo Secreto
-En este desafío, desarrollarás una aplicación que permita a los usuarios ingresar nombres de amigos en una lista para luego realizar un sorteo aleatorio y determinar quién es el "amigo secreto".
+pedniente una imagen de portada aquí
 
+![descripción de la imágen](URL de la imagen generada por el servicio de alojamiento o GitHub)
+
+## Índice
+
+* [Descripción del Proyecto](#descripcion-del-proyecto)
+* [Estado del Proyecto](#estado-del-proyecto)
+* [Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
+* [Acceso al proyecto](#acceso-proyecto)
+* [Tecnologías utilizadas](#tecnologías-utilizadas)
+* [Funcionalidades del Proyecto](#funcionalidades-del-proyecto)
+* [Conclusión](#conclusión)
+
+## Descripción del Proyecto
+
+Este Proyecto es un desafío, Challenge de Oracle Next Education del curso Lógica de Programación - Alura Latam -.
+Es un juego llamado, <em>`"Amigo secreto"`</em>, es una aplicación web que permite a los usuarios ingresar nombres de amigos en una lista para luego realizar un sorteo aleatorio y determinar quién es el `"Amigo Secreto"`.
+
+![imagen-del-juego-amigo-secreto](https://github.com/user-attachments/assets/699a0721-b26b-4a8d-834f-edf1549d2c3a)
+
+## Estado del Proyecto
+<h4 align="center">
+:rocket::man_technologist: Proyecto Terminado :man_technologist::rocket::white_check_mark:
+</h4>
+
+## Características de la aplicación y demostración
 El usuario deberá agregar nombres mediante un campo de texto y un botón "Adicionar". Los nombres ingresados se mostrarán en una lista visible en la página, y al finalizar, un botón "Sortear Amigo" seleccionará uno de los nombres de forma aleatoria, mostrando el resultado en pantalla.
 
-# Fucionalidades
-Agregar nombres: Los usuarios escribirán el nombre de un amigo en un campo de texto y lo agregarán a una lista visible al hacer clic en "Adicionar".
 
-Validar entrada: Si el campo de texto está vacío, el programa mostrará una alerta pidiendo un nombre válido.
 
-Visualizar la lista: Los nombres ingresados aparecerán en una lista debajo del campo de entrada.
+## :hammer:Funcionalidades del Proyecto
+- `Agregar Nombres`: Los usuarios escribirán el nombre de un amigo en un campo de texto y lo agregarán a una lista visible al hacer clic en <em><b>"Adicionar"</b></em>.
 
-Sorteo aleatorio: Al hacer clic en el botón "Sortear Amigo", se seleccionará aleatoriamente un nombre de la lista y se mostrará en la página.
+<em><b>"falta agregar imagen de agregar nombre"</b></em>.
+
+- `Validar Entrada`: Si el campo de texto está vacío, el programa mostrará una alerta pidiendo un nombre válido.
+
+![alertas-de-validaciones](https://github.com/user-attachments/assets/4338484c-ceae-4659-9105-bb2ef5eb82a7)
+
+
+- `Visualizar la Lista`: Los nombres ingresados aparecerán en una lista debajo del campo de entrada.
+
+![user-ve-lista-de-nombres-a-sortear](https://github.com/user-attachments/assets/f1f3f5a7-acf6-4fa8-ad63-14a83809645f)
+
+- `Sorteo Aleatorio`: Al hacer clic en el botón <em><b>"Sortear Amigo"</b></em>, se seleccionará aleatoriamente un nombre de la lista y se mostrará en la página.
+
+![nombre-sorteado-con-btn-sortear](https://github.com/user-attachments/assets/615c5475-a2a5-49e9-82af-0aed0c06c7dd)
+
+
+descripcion de su proyecto
+funcionalidades
+como pueden usarlo los usuarios
+donde los usuarios pueden encontrar ayuda sobre su proyecto
+autores del proyecto
