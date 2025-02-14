@@ -12,7 +12,7 @@
 * [Descripción del Proyecto](#descripción-del-proyecto)
 * [Estado del Proyecto](#estado-del-proyecto)
 * [Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
-* [🔨Funcionalidades del Proyecto](#hammer-funcionalidades-del-proyecto)
+* [:hammer:Funcionalidades del Proyecto](#hammerfuncionalidades-del-proyecto)
 * [Autor](#autor)
 
 ## Descripción del Proyecto
