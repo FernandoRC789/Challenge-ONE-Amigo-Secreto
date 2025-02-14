@@ -58,4 +58,4 @@ Para adicionar amigos solo esta permitido texto, en caso de que traten de ingres
 👨‍💻 <b><em>Nick Fernando Rodriguez Contreras.</em></b>👨‍💻
 </h4>
 
-Soy Estudiante de la Carrera de Computación e Informatica en el Instituto Superior Cibertec y autodidacta, practicando diferentes temas y leguajes de programación; actualmente trabajo en empresa de otro rubro producción, en busqueda de ganar experiencia en el rubro de la tecnología, en mi tiempo libre me gusta hacer deportes, salir con amigos y ver peliculas.
+Soy Estudiante de la Carrera de Computación e Informatica en el Instituto Superior Cibertec y autodidacta, practicando diferentes temas y lenguajes de programación; actualmente trabajo en una empresa de otro rubro que es producción,estoy en busqueda de ganar experiencia en el rubro de la tecnología, en mi tiempo libre me gusta hacer deportes, salir con amigos y ver peliculas.
