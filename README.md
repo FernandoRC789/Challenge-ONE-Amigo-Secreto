@@ -14,7 +14,7 @@
 * [Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
 * [:hammer:Funcionalidades del Proyecto](#hammerfuncionalidades-del-proyecto)
 * [Autor](#autor)
-* [Sitio Web](sitio-web)
+* [Sitio Web](#sitio-web)
 
 ## Descripción del Proyecto
 Este Proyecto es un desafío, Challenge de Oracle Next Education del curso Lógica de Programación - Alura Latam -.
